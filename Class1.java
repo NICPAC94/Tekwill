@@ -1,1 +1,1 @@
-fafa
+public class HelloWorld
